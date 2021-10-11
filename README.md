@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Ghofur Rais Kumar
 - 👀 I’m interested in Data Science and Data Analyst
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me 
 - [LinkedIn](https://www.linkedin.com/in/abdul-ghofur-rais-kumar/) | [Telegram](https://t.me/AG_rais)
 
