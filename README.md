@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- [LinkedIn](https://www.linkedin.com/in/abdul-ghofur-rais-kumar/)
+- [LinkedIn](https://www.linkedin.com/in/abdul-ghofur-rais-kumar/) [Telegram](https://t.me/AG_rais)
 
 <!---
 RaisGG/RaisGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
