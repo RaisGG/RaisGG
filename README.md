@@ -1,3 +1,4 @@
+![aku](https://github.com/RaisGG/belajar-git/blob/master/unnamed.jpg)
 - 👋 Hi, I’m Abdul Ghofur Rais Kumar
 - 👀 I’m interested in Data Science and Data Analyst
 - 🌱 I’m currently learning Machine Learning and Deep Learning
