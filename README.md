@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Data Analyst
 - 🌱 I’m currently learning Data Visualization
 - 📫 How to reach me 
-- [LinkedIn](https://www.linkedin.com/in/abdul-ghofur-rais-kumar/) | [Telegram](https://t.me/AG_rais) | [Project Index](https://github.com/RaisGG/Mini-Project/tree/main)
+- [LinkedIn](https://www.linkedin.com/in/abdul-ghofur-rais-kumar/) | [Telegram](https://t.me/AG_rais) | [Project](https://github.com/RaisGG/Mini-Project/tree/main)
 
 <!---
 RaisGG/RaisGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
